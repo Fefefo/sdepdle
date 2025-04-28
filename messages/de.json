@@ -1,5 +1,19 @@
 {
   "$schema": "https://inlang.com/schema/inlang-message-format",
   "example_message": "Guten Tag {username}",
-  "delete": "EASY"
+  "delete": "LÖSCHEN",
+  "enter": "EINGEBEN",
+  "title": "SDEPDLE",
+  "correct": "RICHTIG",
+  "incorrect": "FALSCH",
+  "wrongPosition": "FALSCHE POSITION",
+  "settingsTitle": "EINSTELLUNGEN",
+  "colorblind": "Farbenblindheitsmodus",
+  "winTitle": "DU HAST GEWONNEN",
+  "loseTitle": "DU HAST VERLOREN",
+  "playAgain": "ERNEUT SPIELEN",
+  "infoTitle": "SPIELANLEITUNG",
+  "infoIntro": "Erraten Sie das SDEPDLE in 6 Versuchen mit 5 Zeichen.<inlang-LineFeed>\nJeder Tipp muss aus einer gültigen fünfstelligen Zeichenfolge bestehen. Drücken Sie die Eingabetaste, um den Tipp abzusenden.<inlang-LineFeed>\nNach jedem Tipp ändert sich die Farbe der Kacheln, um anzuzeigen, wie nah Ihr Tipp an der Reihenfolge war.",
+  "infoRow1": "{character} ist in der Reihenfolge und an der richtigen Stelle.",
+  "infoRow2": "{character} ist in der Sequenz, aber an der falschen Stelle."
 }

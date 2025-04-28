@@ -39,7 +39,11 @@
             }}
             class={heigthClass}
           >
-            <img src={flagsList.find((img) => img.name == loc)?.url} alt="flag" class={heigthClass} />
+            <img
+              src={flagsList.find((img) => img.name == loc)?.url}
+              alt="flag"
+              class="{loc == getLocale() ? 'border-2 border-yellow-300' : ''} {heigthClass} box-border"
+            />
           </button>
         {/each}
       </div>
