@@ -1,0 +1,18 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"delete": "BORRAR",
+	"enter": "INGRESAR",
+	"title": "SDEPDLE",
+	"correct": "CORRECTO",
+	"incorrect": "INCORRECTO",
+	"wrongPosition": "POSICIÓN INCORRECTA",
+	"settingsTitle": "AJUSTES",
+	"colorblind": "MODO DALTÓNICO",
+	"winTitle": "GANASTE",
+	"loseTitle": "PERDISTE",
+	"playAgain": "JUGAR DE NUEVO",
+	"infoTitle": "CÓMO JUGAR",
+	"infoIntro": "Adivina el SDEPDLE en 6 intentos usando 5 caracteres.<inlang-LineFeed>\nCada intento debe ser una secuencia válida de cinco caracteres. Pulse ENTER para enviar.<inlang-LineFeed>\nDespués de cada suposición, el color de las fichas cambiará para mostrar qué tan cerca estuvo su suposición de la secuencia.",
+	"infoRow1": "{character} está en la secuencia y en el lugar correcto.",
+	"infoRow2": "{character} está en la secuencia pero en el lugar equivocado."
+}
