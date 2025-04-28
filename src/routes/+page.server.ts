@@ -12,7 +12,6 @@ export const actions: Actions = {
   initGame: async () => {
     let catalog: Catalog = new Catalog(null);
     const cached = await redis.get("valorant-characters");
-    console.log(cached);
     if (cached) catalog.characters = JSON.parse(cached);
     else {
       const result = await fetch(valorantCatalogURI);
