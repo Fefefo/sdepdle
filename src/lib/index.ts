@@ -1,5 +1,3 @@
-import { getLocale } from "$lib/paraglide/runtime";
-
 export interface Character {
   id: string;
   name: string;
@@ -15,12 +13,14 @@ export class Catalog {
       this.characters = [];
       return;
     }
-    this.characters = obj.data.map((character: any) => {
-      if (character.isPlayableCharacter == false) return;
-      return {
-        id: character.uuid,
-        name: character.displayName
-      };
+    this.characters = obj.data.flatMap((character: any) => {
+      if (character.isPlayableCharacter === false) return [];
+      return [
+        {
+          id: character.uuid,
+          name: character.displayName
+        }
+      ];
     });
   }
 }
