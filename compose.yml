@@ -1,0 +1,11 @@
+version: "1"
+services:
+  redis:
+    image: docker.io/redis:bookworm
+    ports:
+      - 6379:6379
+    volumes:
+      - redis_storage:/data
+
+volumes:
+  redis_storage:
