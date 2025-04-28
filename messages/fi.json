@@ -1,0 +1,18 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "delete": "POISTAA",
+    "enter": "ENTER",
+    "title": "SDEPDLE",
+    "correct": "KORJATA",
+    "incorrect": "VÄÄRIN",
+    "wrongPosition": "VÄÄRÄ ASENTO",
+    "settingsTitle": "ASETUKSET",
+    "colorblind": "VÄRISOKEATILA",
+    "winTitle": "SINÄ VOITIT",
+    "loseTitle": "SINÄ MENETIT",
+    "playAgain": "PELAA UUDELLEEN",
+    "infoTitle": "PELAAMINEN",
+    "infoIntro": "Arvaa SDEPDLE 6 yrityksellä käyttämällä 5 merkkiä.<inlang-LineFeed>\nJokaisen arvauksen on oltava kelvollinen viiden merkin sekvenssi. Paina ENTER-painiketta lähettääksesi.<inlang-LineFeed>\nJokaisen arvauksen jälkeen laattojen väri muuttuu osoittamaan, kuinka lähellä arvauksesi oli sarjaa.",
+    "infoRow1": "{character} on järjestyksessä ja oikeassa paikassa.",
+    "infoRow2": "{character} on järjestyksessä, mutta väärässä kohdassa."
+}

@@ -1,0 +1,36 @@
+@import "tailwindcss";
+@plugin '@tailwindcss/typography';
+
+@import "@skeletonlabs/skeleton";
+@import "@skeletonlabs/skeleton/optional/presets";
+@import "@skeletonlabs/skeleton/themes/wintry";
+
+@source '../node_modules/@skeletonlabs/skeleton-svelte/dist';
+
+:root {
+  --correct-color: rgb(22 163 74);
+  --missplace-color: rgb(234 88 12);
+}
+
+.bg-correct {
+  background-color: var(--correct-color);
+}
+
+.bg-missplace {
+  background-color: var(--missplace-color);
+}
+
+.border-correct {
+  border-color: var(--correct-color);
+}
+
+.border-missplace {
+  border-color: var(--missplace-color);
+}
+
+iconify-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  font-size: 35px;
+}

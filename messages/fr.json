@@ -1,0 +1,18 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"delete": "SUPPRIMER",
+	"enter": "ENTRER",
+	"title": "SDEPDLE",
+	"correct": "CORRECT",
+	"incorrect": "INCORRECT",
+	"wrongPosition": "MAUVAISE POSITION",
+	"settingsTitle": "PARAMÈTRES",
+	"colorblind": "MODE DALTONIEN",
+	"winTitle": "TU AS GAGNÉ",
+	"loseTitle": "TU AS PERDU",
+	"playAgain": "JOUER À NOUVEAU",
+	"infoTitle": "COMMENT JOUER",
+	"infoIntro": "Devinez le SDEPDLE en 6 essais en utilisant 5 caractères.<inlang-LineFeed>\nChaque proposition doit être une séquence valide de cinq caractères. Appuyez sur ENTRÉE pour valider.<inlang-LineFeed>\nAprès chaque supposition, la couleur des tuiles changera pour montrer à quel point votre supposition était proche de la séquence.",
+	"infoRow1": "{character} est dans la séquence et au bon endroit.",
+	"infoRow2": "{character} est dans la séquence mais au mauvais endroit."
+}
