@@ -43,8 +43,8 @@ export function setBgColorAndPath(el: HTMLElement, value: number, uri: string) {
   el.classList.remove("bg-opacity-15", "bg-white");
 }
 
-export function getFlagURL(locale: string | null | undefined): string {
-  const myLoc = locale || getLocale();
-  const flagName = myLoc.split("-")[0].replace("en", "gb");
-  return `https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/${flagName}.svg`;
-}
+// export function getFlagURL(locale: string | null | undefined): string {
+//   const myLoc = locale || getLocale();
+//   const flagName = myLoc.split("-")[0].replace("en", "gb");
+//   return `https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/${flagName}.svg`;
+// }
