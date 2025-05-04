@@ -14,5 +14,7 @@
     "infoTitle": "게임 방법",
     "infoIntro": "5개의 캐릭터를 사용하여 6번의 시도로 SDEPDLE 을(를) 맞추세요.\n\n각 시도는 유효한 다섯 캐릭터 시퀀스여야 합니다.제출하려면 ENTER 버튼을 누르세요.\n\n각 시도 후에 타일의 색상이 변경되어 시퀀스와 얼마나 가까운지 보여줍니다.",
     "infoRow1": "{character} 은(는) 시퀀스에 있으며 올바른 위치에 있습니다.",
-    "infoRow2": "{character} 은(는) 시퀀스에 있지만 잘못된 위치에 있습니다."
+    "infoRow2": "{character} 은(는) 시퀀스에 있지만 잘못된 위치에 있습니다.",
+    "languageDisclaimer": "Fasal italian-a english-a basdə muskon fasartəna, gadedə waneye lamarra mbeji sau sandiya kəlanzalan tətandin.",
+    "language": "언어"
 }

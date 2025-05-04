@@ -1,1 +1,20 @@
-{"$schema":"https://inlang.com/schema/inlang-message-format","delete":"CANCELLA","enter":"INVIO","title":"SDEPDLE","correct":"CORRETTO","incorrect":"ERRATO","wrongPosition":"POSIZIONE SBAGLIATA","settingsTitle":"IMPOSTAZIONI","colorblind":"MODALITÀ PER DALTONICI","winTitle":"HAI VINTO","loseTitle":"HAI PERSO","playAgain":"RIGIOCA","infoTitle":"COME SI GIOCA","infoIntro":"Indovina lo SDEPDLE in massimo 6 tentativi usando 5 personaggi.\n\nOgni tentativo deve essere una sequenza valida di cinque personaggi. Premi il pulsante INVIO per inviare.\n\nDopo ogni tentativo, il colore delle tessere cambierà per mostrare quanto il tuo tentativo è vicino alla sequenza.","infoRow1":"{character} è nella sequenza e nella posizione corretta.","infoRow2":"{character} è nella sequenza, ma nella posizione sbagliata."}
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "delete": "CANCELLA",
+    "enter": "INVIO",
+    "title": "SDEPDLE",
+    "correct": "CORRETTO",
+    "incorrect": "ERRATO",
+    "wrongPosition": "POSIZIONE SBAGLIATA",
+    "settingsTitle": "IMPOSTAZIONI",
+    "colorblind": "MODALITÀ PER DALTONICI",
+    "winTitle": "HAI VINTO",
+    "loseTitle": "HAI PERSO",
+    "playAgain": "RIGIOCA",
+    "infoTitle": "COME SI GIOCA",
+    "infoIntro": "Indovina lo SDEPDLE in massimo 6 tentativi usando 5 personaggi.\n\nOgni tentativo deve essere una sequenza valida di cinque personaggi. Premi il pulsante INVIO per inviare.\n\nDopo ogni tentativo, il colore delle tessere cambierà per mostrare quanto il tuo tentativo è vicino alla sequenza.",
+    "infoRow1": "{character} è nella sequenza e nella posizione corretta.",
+    "infoRow2": "{character} è nella sequenza, ma nella posizione sbagliata.",
+    "language": "LINGUA",
+    "languageDisclaimer": "Solo l'italiano e l'inglese sono tradotti manualmente; le altre lingue potrebbero contenere errori, essendo state generate automaticamente."
+}

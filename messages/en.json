@@ -14,5 +14,7 @@
   "infoTitle": "HOW TO PLAY",
   "infoIntro": "Guess the SDEPDLE in 6 tries using 5 characters.\n\nEach guess must be a valid five-characters sequence. Hit the ENTER button to submit.\n\nAfter each guess, the color of the tiles will change to show how close your guess was to the sequence.",
   "infoRow1": "{character} is in the sequence and in the correct spot.",
-  "infoRow2": "{character} is in the sequence but in the wrong spot."
+  "infoRow2": "{character} is in the sequence but in the wrong spot.",
+  "languageDisclaimer": "Only the italian and english versions have been manually translated, the others might have issues since they were auto-generated.",
+  "language": "LANGUAGE"
 }

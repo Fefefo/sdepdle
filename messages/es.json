@@ -14,5 +14,7 @@
 	"infoTitle": "CÓMO JUGAR",
 	"infoIntro": "Adivina el SDEPDLE en 6 intentos usando 5 caracteres.<inlang-LineFeed>\nCada intento debe ser una secuencia válida de cinco caracteres. Pulse ENTER para enviar.<inlang-LineFeed>\nDespués de cada suposición, el color de las fichas cambiará para mostrar qué tan cerca estuvo su suposición de la secuencia.",
 	"infoRow1": "{character} está en la secuencia y en el lugar correcto.",
-	"infoRow2": "{character} está en la secuencia pero en el lugar equivocado."
+	"infoRow2": "{character} está en la secuencia pero en el lugar equivocado.",
+	"languageDisclaimer": "Sólo las versiones en italiano e inglés han sido traducidas manualmente, las demás podrían tener problemas ya que se generaron automáticamente.",
+	"language": "IDIOMA"
 }

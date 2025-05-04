@@ -14,5 +14,7 @@
     "infoTitle": "PELAAMINEN",
     "infoIntro": "Arvaa SDEPDLE 6 yrityksellä käyttämällä 5 merkkiä.<inlang-LineFeed>\nJokaisen arvauksen on oltava kelvollinen viiden merkin sekvenssi. Paina ENTER-painiketta lähettääksesi.<inlang-LineFeed>\nJokaisen arvauksen jälkeen laattojen väri muuttuu osoittamaan, kuinka lähellä arvauksesi oli sarjaa.",
     "infoRow1": "{character} on järjestyksessä ja oikeassa paikassa.",
-    "infoRow2": "{character} on järjestyksessä, mutta väärässä kohdassa."
+    "infoRow2": "{character} on järjestyksessä, mutta väärässä kohdassa.",
+    "languageDisclaimer": "Vain italian- ja englanninkieliset versiot on käännetty manuaalisesti, muissa saattaa olla ongelmia, koska ne on luotu automaattisesti.",
+    "language": "KIELI"
 }

@@ -15,5 +15,7 @@
   "infoTitle": "SPIELANLEITUNG",
   "infoIntro": "Erraten Sie das SDEPDLE in 6 Versuchen mit 5 Zeichen.<inlang-LineFeed>\nJeder Tipp muss aus einer gültigen fünfstelligen Zeichenfolge bestehen. Drücken Sie die Eingabetaste, um den Tipp abzusenden.<inlang-LineFeed>\nNach jedem Tipp ändert sich die Farbe der Kacheln, um anzuzeigen, wie nah Ihr Tipp an der Reihenfolge war.",
   "infoRow1": "{character} ist in der Reihenfolge und an der richtigen Stelle.",
-  "infoRow2": "{character} ist in der Sequenz, aber an der falschen Stelle."
+  "infoRow2": "{character} ist in der Sequenz, aber an der falschen Stelle.",
+  "languageDisclaimer": "Nur die italienische und englische Version wurden manuell übersetzt, bei den anderen Versionen kann es zu Problemen kommen, da sie automatisch generiert wurden.",
+  "language": "SPRACHE"
 }
